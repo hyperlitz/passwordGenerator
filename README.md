@@ -13,7 +13,7 @@ This is a simple password generator web application built using HTML, CSS, and J
 
 ## Live Demo
 
-Check out the live demo of the password generator [here](https://example.com).
+Check out the live demo of the password generator [here](https://hyperlitz.github.io/passwordGenerator).
 
 ## Repository
 
